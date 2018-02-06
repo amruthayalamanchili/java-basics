@@ -5,5 +5,5 @@ public class ProtectExtendBaseClass1 extends ProtectBaseClass1{
         this.protectBaseClassMethod1();
     }
 }
-//we can access methods and classes with protected identifier
+//we can access methods with protected identifier
 // in the same package using inheritance only
