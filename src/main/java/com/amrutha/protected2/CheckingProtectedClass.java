@@ -1,6 +1,6 @@
-package com.amrutha.checkingprotected;
+package com.amrutha.protected2;
 
-import com.amrutha.protectedmodifier.ProtectBaseClass1;
+import com.amrutha.protected1.ProtectBaseClass1;
 
 public class CheckingProtectedClass extends ProtectBaseClass1{
     protected void checkingProtectedMethod(){

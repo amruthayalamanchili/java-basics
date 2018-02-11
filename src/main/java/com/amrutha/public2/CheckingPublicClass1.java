@@ -1,6 +1,6 @@
-package com.amrutha.checkingPublic;
+package com.amrutha.public2;
 
-import com.amrutha.publicmodifier.PublicBaseClass1;
+import com.amrutha.public1.PublicBaseClass1;
 
 public class CheckingPublicClass1 extends PublicBaseClass1{
     public void checkingPublicBaseMehtod1(){

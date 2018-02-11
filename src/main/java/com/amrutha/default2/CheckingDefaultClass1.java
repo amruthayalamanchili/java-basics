@@ -1,6 +1,6 @@
-package com.amrutha.checkingdefault;
+package com.amrutha.default2;
 
-import com.amrutha.defaultmodifier.BaseClass1;
+import com.amrutha.default1.BaseClass1;
 
 public class CheckingDefaultClass1 {
     public void checkingDefaultMethod1(){

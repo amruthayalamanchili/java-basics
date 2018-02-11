@@ -1,6 +1,6 @@
-package com.amrutha.checkingprivate;
+package com.amrutha.private2;
 
-import com.amrutha.privatemodifier.PrivateBase1;
+import com.amrutha.private1.PrivateBase1;
 
 public class CheckingPrivateClass extends PrivateBase1{
     private void checkingPrivateMethod(){

@@ -1,4 +1,4 @@
-package com.amrutha.publicmodifier;
+package com.amrutha.public1;
 
 public class PublicExtendsBaseClass1 extends PublicBaseClass1{
     public void publicExtendBaseMethod1(){

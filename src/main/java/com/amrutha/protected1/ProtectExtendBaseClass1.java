@@ -1,4 +1,4 @@
-package com.amrutha.protectedmodifier;
+package com.amrutha.protected1;
 
 public class ProtectExtendBaseClass1 extends ProtectBaseClass1{
     protected void protectExtendBaseMethod1(){

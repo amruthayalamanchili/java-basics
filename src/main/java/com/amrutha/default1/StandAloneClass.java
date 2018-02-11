@@ -1,4 +1,4 @@
-package com.amrutha.defaultmodifier;
+package com.amrutha.default1;
 
 public class StandAloneClass {
     public void standAloneMethod(){

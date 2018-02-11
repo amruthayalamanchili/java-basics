@@ -1,4 +1,4 @@
-package com.amrutha.privatemodifier;
+package com.amrutha.private1;
 
 public class PrivateExtendBase1 extends PrivateBase1 {
     private void privateExtendBaseMethod1(){
