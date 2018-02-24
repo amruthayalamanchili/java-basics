@@ -8,7 +8,7 @@ public class TwoDMatrix {
         public int [][] matInputs(){
             int [][] mat=new int[2][2];
             for(int row=0;row<2;row++){
-                startNum++;
+                //startNum++;
                 for(int column=0;column<2;column++){
                     mat[row][column]=startNum;
                     startNum++;
